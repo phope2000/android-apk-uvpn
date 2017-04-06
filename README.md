@@ -23,7 +23,7 @@
 *	－shadowsocks – ss-server会占用本机的8443端口，用来与ss-local进行socket通信
 *	－shadowsocks – ss-local（socks5 server)会占用本机的1080端口，用来与badvpn - tun2socks进行socket通信
 *	－badvpn – udpgw会占用本机的8700端口，用来与badvpn - tun2socks进行socket通信
-*	－Android 6.0开始支持Always-on VPN, 本软件暂时不支持这个功能，请不要打开这个选项
+*	－Android系统支持Always-on VPN, 本软件暂时不支持这个功能，请不要打开这个选项
 
 ##### 项目主页 #####
 
